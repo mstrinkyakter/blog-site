@@ -8,8 +8,8 @@
                         <div class="row gy-4">
                             <div class="col-12">
                                 <div class="card">
-                                    <img src="https://miro.medium.com/v2/resize:fit:915/0*4DpFVUP_VfkhzSIL" alt=""
-                                        height="300px" width="100%px">
+                                    <img src="https://img.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1697414400&semt=ais" alt=""
+                                        height="400px" width="100%px">
                                     <div class="card-body">
                                         <h3>Regular Course</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, a?</p>
@@ -26,7 +26,7 @@
                             <div class="col-12 ">
                               <h3 class="mt-4">Featured Categories</h3>
                                
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush list">
                                         <li class="list-group-item"><a href="">Web Design & Development</a></li>
                                         <li class="list-group-item"><a href="">Graphic & Multimedia</a></li>
                                         <li class="list-group-item"><a href="">Software Development</a></li>
