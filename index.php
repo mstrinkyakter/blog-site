@@ -1,3 +1,15 @@
+<?php 
+require 'config.php';
+$query ="SELECT * FROM posts";
+$stmt=$pdo->prepare($query);
+$stmt->execute();
+$rows=$stmt->fetchAll(PDO::FETCH_ASSOC);
+foreach ($rows as $row){
+    echo "<p> {$row['Title']} </p>";
+}
+?>
+
+
 <?php include "includes/header.php"; ?>
     <main>
         <section class="py-5">
